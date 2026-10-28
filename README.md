@@ -1,1 +1,2 @@
-# Dicas-clim-ticas-
+## Aqui está a ideia do meu projeto:
+> 
